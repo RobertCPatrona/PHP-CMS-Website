@@ -4,7 +4,7 @@
 1. Install XAMPP and launch it. Once XAMPP is up and running, start the Apache Server and MySQL Server.
 2. Copy and paste the `cms` folder into your XAMPP installation folder, inside the `htdocs` folder, you should have `yourinstallpath/xampp/htdocs/cms`.
 3. Import the Database. Go to `phpMyAdmin` on https://localhost/phpmyadmin/. There you need to create a new database called `cms` and then import the database file `cms.sql`. You should now have a `cms` databse with some data in it, imported from the `cms.sql` file. Once the database is imported, you can start using the website. 
-4. Go to https://localhost/cms/ to access and use the website. Please continue reading to learn about the website's structure. 
+4. Go to https://localhost/cms/ to access and use the website. Please continue reading to learn about the website's structure and login data. 
 
 ### About the CMS Website
 A website for posting posts, commenting, liking, where visitors can register and authenticate. Created with PHP, along with HTML and Bootstrap.
