@@ -1,4 +1,4 @@
-# PHP CSM Website
+# PHP CMS Website
 
 ### Installation on localhost
 1. Install XAMPP and launch it. Once XAMPP is up and running, install and enable the Apache Server and MySQL Server.
